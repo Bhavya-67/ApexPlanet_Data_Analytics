@@ -1,0 +1,89 @@
+# 👋 Hi, I'm CHERUKURI BHAVYA SREE
+
+Aspiring Data Analyst
+
+Welcome to my Data Analytics Internship Portfolio.
+
+---
+
+## About Me
+
+A passionate Data Analyst skilled in
+
+✔ Excel
+
+✔ SQL
+
+✔ Python
+
+✔ Power BI
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+---
+
+## Internship Projects
+
+Task 1
+
+Data Cleaning and Preprocessing
+
+🔗 Project Link - https://github.com/Bhavya-67/ApexPlanet_Data_Analytics/tree/main/Task_1_Data-Immersion-Wrangling
+
+Task 2
+
+Exploratory Data Analysis
+
+🔗 Project Link - https://github.com/Bhavya-67/ApexPlanet_Data_Analytics/tree/main/Task-2_EDA_Business_Intelligence_Projects.ipynb
+
+Task 3
+
+Sales Analytics Dashboard
+
+🔗 Project Link - https://github.com/Bhavya-67/ApexPlanet_Data_Analytics/tree/main/Task3_Deep-Dive%20Analysis%20%26%20Interactive%20Dashboarding
+
+Task 4
+
+Capstone Project
+
+🔗 Project Link - https://github.com/Bhavya-67/ApexPlanet_Data_Analytics/tree/main/Task-4_Final_Project
+
+---
+
+## Technical Skills
+
+Python
+
+SQL
+
+Excel
+
+Power BI
+
+Git
+
+GitHub
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+---
+
+## Resume
+
+Download Resume - 📄 Resume
+"Download Resume" (Resume/Cherukuri_Bhavyasree_Resume.pdf)
+
+---
+
+## Contact
+
+LinkedIn - https://www.linkedin.com/in/cherukuribhavyasree/
+
+GitHub - https://github.com/Bhavya-67
+Email - cherukuribhavya216@gmail.com
