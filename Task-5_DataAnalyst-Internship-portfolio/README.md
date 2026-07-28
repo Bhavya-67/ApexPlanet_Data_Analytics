@@ -77,7 +77,8 @@ Matplotlib
 ## Resume
 
 Download Resume - 📄 Resume
-"Download Resume" (Resume/Cherukuri_Bhavyasree_Resume.pdf)
+
+[Download Resume](Resume/Cherukuri_Bhavyasree_Resume.pdf)
 
 ---
 
@@ -86,4 +87,5 @@ Download Resume - 📄 Resume
 LinkedIn - https://www.linkedin.com/in/cherukuribhavyasree/
 
 GitHub - https://github.com/Bhavya-67
+
 Email - cherukuribhavya216@gmail.com
